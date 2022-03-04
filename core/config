@@ -1,0 +1,9 @@
+{
+    "conexion": {
+        "host": "localhost",
+        "user": "postgres",
+        "password": "dgtic123",
+        "database": "api",
+        "port": 5432
+    }
+}
